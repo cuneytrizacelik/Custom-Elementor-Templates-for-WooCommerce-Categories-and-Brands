@@ -7,6 +7,6 @@
 <ol><li>Copy and paste the provided code into your theme's <code>functions.php</code> file or as a standalone plugin.</li><li>Navigate to your WooCommerce category editor, and you'll find a new dropdown to select Elementor templates.</li><li>After selecting a template, view the category page to see the template content at the bottom.</li></ol>
 <h2>Contribution:</h2>
 <p>Developers are encouraged to contribute, make improvements, or suggest changes. Feel free to fork this repository and submit a pull request</p>
-<p><strong>You can contact <a href="mailto:info@growthbx.com">info@growthbx.com</a> about Woocommerce and Wordpress developments, e-commerce and website building.</strong></p>
+<p><strong>You can contact <a href="mailto:iletisim@rogmedya.com">iletisim@rogmedya.com</a> about Woocommerce and Wordpress developments, e-commerce and website building.</strong></p>
 
-<p><strong>For more information about GrowthBX <a href="https://growthbx.com" rel="nofollow">https://growthbx.com</a></strong></p>
+<p><strong>For more information about ROG Medya <a href="https://rogmedya.com" rel="nofollow">https://rogmedya.com</a></strong></p>
